@@ -1,3 +1,1 @@
-* [Home](/)
-
-    * [Examples](sub/)
+* [Zielsetzung](projekt/zielsetzung/ZIELSETZUNG.md)
